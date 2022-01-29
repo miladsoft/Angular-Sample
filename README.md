@@ -13,3 +13,5 @@ npm install
 - `
 npm start
 `
+
+This will host an web server on: http://localhost:4200/
